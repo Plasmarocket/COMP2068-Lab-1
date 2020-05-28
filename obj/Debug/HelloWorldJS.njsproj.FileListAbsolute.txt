@@ -1,0 +1,3 @@
+C:\Users\jpole\source\repos\HelloWorldJS\HelloWorldJS\obj\Debug\HelloWorldJS.njsprojAssemblyReference.cache
+C:\Users\jpole\source\repos\HelloWorldJS\HelloWorldJS\obj\Debug\HelloWorldJS.njsproj.CoreCompileInputs.cache
+C:\Users\jpole\source\repos\HelloWorldJS\HelloWorldJS\bin\Microsoft.NodejsTools.WebRole.dll
